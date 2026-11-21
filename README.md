@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" width="128" alt="Logo Prisma Play">
+  <img src="icon-1.png" width="128" alt="Logo Prisma Play">
 </p>
 
 <h1 align="center">Prisma Play</h1>
